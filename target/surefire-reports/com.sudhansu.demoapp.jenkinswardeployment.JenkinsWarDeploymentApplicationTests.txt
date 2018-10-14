@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sudhansu.demoapp.jenkinswardeployment.JenkinsWarDeploymentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.062 s - in com.sudhansu.demoapp.jenkinswardeployment.JenkinsWarDeploymentApplicationTests
